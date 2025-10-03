@@ -28,3 +28,7 @@ ufdr_faiss_index/
 
 # Ignore data files if large or sensitive
 *.json
+
+# Node
+node_modules/
+npm-debug.log*
